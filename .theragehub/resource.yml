@@ -1,5 +1,6 @@
 trh_version: 1 # The version of the TRH resource description format
 
+mod: 'altv' # Possible values: altv, fivem, ragemp, redm
 name: 'TheRageHub Example Resource'
 version: '1.0.0'
 logoUrl: 'https://i.imgur.com/6utxfs8.jpg'
